@@ -4,7 +4,7 @@
 
 ### Dataset Preparation for AI/ML  Model Training 
 
-Tool Used: LabelImg
+#### Tool Used: LabelImg
 
 •	Annotated images  captured from Google Earth for AI/ML model training.
 
@@ -12,7 +12,7 @@ Tool Used: LabelImg
 
 •	Annotated images with classes such as military aircraft, blastpen, runway, runway mark, floating oil tanks, flat top oil tanks, domed oil tanks passenger transport and vehicles.
 
-Challenges: 
+#### Challenges: 
 
 •	Image collection of such classes.
 
@@ -21,7 +21,7 @@ Challenges:
 
 ### Superstore Sales Dashboard
 
-Technology Used: Microsoft PowerBI
+#### Technology Used: Microsoft PowerBI
 
 •	Dashboard Creation: Identified various KPIs, designed intuitive and interactive dashboard with effective visualization and filtering in order to allow users to explore and visualize data at various levels of granularity.
 
